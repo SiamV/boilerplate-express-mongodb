@@ -1,2 +1,2 @@
 # boilerplate-express-mongodb
-Easy to start
+Easy to start your application
